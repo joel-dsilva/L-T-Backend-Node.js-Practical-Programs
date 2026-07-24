@@ -7,3 +7,7 @@ let highestMarks = Math.max(...marksList);
  
 console.log("Rounded Marks:", roundedMarks);
 console.log("Highest Marks in List:", highestMarks);
+
+// Output:
+// Rounded Marks: 88
+// Highest Marks in List: 91
