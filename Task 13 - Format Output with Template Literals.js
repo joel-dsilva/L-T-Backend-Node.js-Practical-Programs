@@ -6,3 +6,6 @@ let student = {
 };
  
 console.log(`Student ${student.name} from Section ${student.section} scored ${student.marks} marks.`);
+
+// Output:
+// Student Tanya from Section B scored 82 marks.
