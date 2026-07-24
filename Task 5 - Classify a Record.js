@@ -6,3 +6,6 @@ if (marks >= 40) {
 } else {
   console.log("Result: Fail");
 }
+
+//Output:
+//Result: Pass
