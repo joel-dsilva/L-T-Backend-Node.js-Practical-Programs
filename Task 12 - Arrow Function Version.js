@@ -9,3 +9,7 @@ const getResult = (name, marks) => {
  
 console.log(getResult("Farhan", 58));
 console.log(getResult("Divya", 21));
+
+// Output:
+// Farhan has Passed
+// Divya has Failed
