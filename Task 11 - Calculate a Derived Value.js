@@ -9,3 +9,7 @@ function getResult(name, marks) {
  
 console.log(getResult("Ankit", 76));
 console.log(getResult("Meera", 32));
+
+// Output:
+// Ankit has Passed
+// Meera has Failed
